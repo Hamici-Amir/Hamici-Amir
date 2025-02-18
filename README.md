@@ -4,13 +4,6 @@
 
 <p align="center"><a href="https://github.com/t-ho/mern-stack"><img alt="mern-logo" width="360" src="https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-logo.png"/></a></p>
 
-# MERN Stack with Docker
-
-### MongoDB - Express - React - Redux - React Native - NodeJS
-
-MERN stack is intended to provide a starting point for building full-stack JavaScript applications, including dynamic web and mobile apps. The stack is made of MongoDB, Express, React, Redux, React Native and NodeJS.
-
-[![mern-workflow](https://raw.githubusercontent.com/t-ho/mern-stack/assets/assets/mern-workflow.gif)](https://github.com/t-ho/mern-stack)
 
 
 
