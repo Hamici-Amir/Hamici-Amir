@@ -9,10 +9,14 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B;I'm+Hamici+Amir;Full+Stack+Web+Developer;MERN+Stack+%7C+Clean+Code+%7C+Scalable+Apps;Always+Learning+%26+Building" alt="Typing intro"/>
+</p>                        
+                    
+                             
+### 🧑‍💻 About Me                            
+<p align="center">                                                                 
+  
+ font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&lines=Hey+there!+%F0%9F%91%8B;I'm+Hamici+Amir+%F0%9F%92%BB;Full+Stack+Web+Developer+%E2%9C%A8;MERN+Stack+%7C+Clean+Code+%7C+Scalable+Apps;Always+Learning+%F0%9F%8E%93+%26+Creating+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
-
-
-
 
 
 
