@@ -1,18 +1,12 @@
 <!-- HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4DB6AC&center=true&vCenter=true&width=500&lines=Hey+there!+👋;I'm+Hamici+Amir;Full+Stack+Developer;MERN+Stack+Specialist" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <em>💻 Crafting clean code & beautiful designs 🚀</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DB6AC,100:1976D2&height=250&section=header&text=Hamici%20Amir&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=60&descAlign=50" alt="header"/>
 </p>
 
-<!-- DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="80%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4DB6AC&center=true&vCenter=true&width=500&lines=💻+Crafting+clean+code+%26+beautiful+designs;🚀+Building+scalable+MERN+apps;🌱+Always+learning+and+growing" alt="Typing SVG" />
 </p>
 
----
 
 ### 🧑‍💻 About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif">
