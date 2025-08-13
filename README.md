@@ -4,12 +4,13 @@
 </p>
 
 
+<!-- Clean, reliable header (hosted) -->
 <p align="center">
-  <img src="https://i.ibb.co/8gQ5bXL/tech-banner-github.png" alt="Hamici Amir Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:1976D2&height=230&section=header&text=Hamici%20Amir&fontSize=62&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=60&descAlign=50" alt="Hamici Amir Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B;I'm+Hamici+Amir;Full+Stack+Web+Developer+%E2%9C%A8;MERN+Stack+%7C+Clean+Code+%7C+Scalable+Apps;Always+Learning+%F0%9F%8E%93+%26+Creating+%F0%9F%94%A5" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B;I'm+Hamici+Amir;Full+Stack+Web+Developer;MERN+Stack+%7C+Clean+Code+%7C+Scalable+Apps;Always+Learning+%26+Building" alt="Typing intro"/>
 </p>
 
 
