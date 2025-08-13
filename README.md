@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4DB6AC,100:1976D2&height=250&section=header&text=Hamici%20Amir&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist&descAlignY=60&descAlign=50" alt="header"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4DB6AC&center=true&vCenter=true&width=500&lines=💻+Crafting+clean+code+%26+beautiful+designs;🚀+Building+scalable+MERN+apps;🌱+Always+learning+and+growing" alt="Typing SVG" />
-</p>
 
 
 ### 🧑‍💻 About Me
