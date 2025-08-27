@@ -23,7 +23,7 @@
 - 🌱 Learning **MERN Stack** & **TypeScript**  
 - 📄 [Resume](https://1drv.ms/b/s!AgPbShu6dL-mg2mrhza2Kzvab5KF?e=LhOIUG)  
 - 💻 [Portfolio](https://hamici-amir-eta-ebon.vercel.app/)  
-- 📂 [All Projects](https://github.com/alih6051?tab=repositories)  
+- 📂 [All Projects](https://github.com/Hamici-Amir?tab=repositories)  
 - 💬 Ask me about **HTML, CSS, JS, React, Node.js, Express.js**  
 - 📫 Reach me at **hamiciamir525@gmail.com**
 
