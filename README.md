@@ -22,7 +22,7 @@
 - 🔭 Currently preparing for **placements**  
 - 🌱 Learning **MERN Stack** & **TypeScript**  
 - 📄 [Resume](https://1drv.ms/b/s!AgPbShu6dL-mg2mrhza2Kzvab5KF?e=LhOIUG)  
-- 💻 [Portfolio](https://alih6051.github.io/)  
+- 💻 [Portfolio](https://hamici-amir-eta-ebon.vercel.app/)  
 - 📂 [All Projects](https://github.com/alih6051?tab=repositories)  
 - 💬 Ask me about **HTML, CSS, JS, React, Node.js, Express.js**  
 - 📫 Reach me at **alih6051@gmail.com**
