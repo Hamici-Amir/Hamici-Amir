@@ -21,7 +21,7 @@
 
 - 🔭 Currently preparing for **placements**  
 - 🌱 Learning **MERN Stack** & **TypeScript**  
-- 📄 [Resume](https://1drv.ms/b/s!AgPbShu6dL-mg2mrhza2Kzvab5KF?e=LhOIUG)  
+- 📄 [Resume](./HamiciAmir(17).pdf)  
 - 💻 [Portfolio](https://hamici-amir-eta-ebon.vercel.app/)  
 - 📂 [All Projects](https://github.com/Hamici-Amir?tab=repositories)  
 - 💬 Ask me about **HTML, CSS, JS, React, Node.js, Express.js**  
