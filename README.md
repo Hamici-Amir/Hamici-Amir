@@ -25,7 +25,7 @@
 - 💻 [Portfolio](https://hamici-amir-eta-ebon.vercel.app/)  
 - 📂 [All Projects](https://github.com/alih6051?tab=repositories)  
 - 💬 Ask me about **HTML, CSS, JS, React, Node.js, Express.js**  
-- 📫 Reach me at **alih6051@gmail.com**
+- 📫 Reach me at **hamiciamir525@gmail.com**
 
 ---
 
